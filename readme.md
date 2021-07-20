@@ -1,6 +1,6 @@
 ## Blurry Loading
 
-Blurry Loading animation with image backround using CSS and Javascript.
+Blurry Loading animation with image background using CSS and Javascript.
 
 ## Live Preview
 
